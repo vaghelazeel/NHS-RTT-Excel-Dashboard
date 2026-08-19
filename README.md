@@ -8,6 +8,10 @@ data from June 2026. The goal was to build a performance
 benchmarking dashboard that mirrors the kind of work done by 
 NHS intelligence and data analysts.
 
+[Dashboard Top](dashboard_top.png.png)
+
+[Dashboard Bottom](dashboard_bottom.png.png)
+
 ## Data
 
 Source: NHS England, Incomplete Provider Pathways
